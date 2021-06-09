@@ -1,0 +1,63 @@
+{
+  "to": "bq3dwsq24",
+  "data": [
+    {
+      "6": {
+        "value": "This is my text"
+      },
+      "7": {
+        "value": 10
+      },
+      "8": {
+        "value": "2019-12-18T08:00:00.000Z"
+      },
+      "9": {
+        "value": [
+          "a",
+          "b"
+        ]
+      },
+      "10": {
+        "value": true
+      },
+      "11": {
+        "value": "user@quickbase.com"
+      },
+      "12": {
+        "value": "www.quickbase.com"
+      },
+      "13": {
+        "value": [
+          {
+            "id": "123456.ab1s"
+          },
+          {
+            "id": "254789.mkgp"
+          },
+          {
+            "id": "789654.vc2s"
+          }
+        ]
+      }
+    }
+  ],
+  "fieldsToReturn": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ]
+}
+
+
+{'to': 'bq3dwsq24', 
+  'data': [
+    {
+      '6': {
+        'value': '1'
+        }, 
+        '7': {'value': 'Wii Sports'}, '8': {'value': 'Wii'}, '9': {'value': '2006.0'}, '10': {'value': 'Sports'}, '11': {'value': 'Nintendo'}, '12': {'value': '41.49'}, '13': {'value': '29.02'}, '14': {'value': '3.77'}, '15': {'value': '8.46'}, '16': {'value': '82.74'}}, {'6': {'value': '2'}, '7': {'value': 'Super Mario Bros.'}, '8': {'value': 'NES'}, '9': {'value': '1985.0'}, '10': {'value': 'Platform'}, '11': {'value': 'Nintendo'}, '12': {'value': '29.08'}, '13': {'value': '3.58'}, '14': {'value': '6.81'}, '15': {'value': '0.77'}, '16': {'value': '40.24'}}, {'6': {'value': '3'}, '7': {'value': 'Mario Kart Wii'}, '8': {'value': 'Wii'}, '9': {'value': '2008.0'}, '10': {'value': 'Racing'}, '11': {'value': 'Nintendo'}, '12': {'value': '15.85'}, '13': {'value': '12.88'}, '14': {'value': '3.79'}, '15': {'value': '3.31'}, '16': {'value': '35.82'}}, {'6': {'value': '4'}, '7': {'value': 'Wii Sports Resort'}, '8': {'value': 'Wii'}, '9': {'value': '2009.0'}, '10': {'value': 'Sports'}, '11': {'value': 'Nintendo'}, '12': {'value': '15.75'}, '13': {'value': '11.01'}, '14': {'value': '3.28'}, '15': {'value': '2.96'}, '16': {'value': '33.0'}}, {'6': {'value': '5'}, '7': {'value': 'Pokemon Red/Pokemon Blue'}, '8': {'value': 'GB'}, '9': {'value': '1996.0'}, '10': {'value': 'Role-Playing'}, '11': {'value': 'Nintendo'}, '12': {'value': '11.27'}, '13': {'value': '8.89'}, '14': {'value': '10.22'}, '15': {'value': '1.0'}, '16': {'value': '31.37'}}]}
